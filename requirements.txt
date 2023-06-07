@@ -7,3 +7,4 @@ pickle
 seaborn
 matplotlib
 plotly
+Pillow
